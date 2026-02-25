@@ -122,19 +122,3 @@ eas build:configure
 eas build --platform android --profile preview
 ```
 4. Download APK from EAS build URL.
-
-## GitHub + Submission Steps
-
-1. Initialize/push repo:
-```bash
-git init
-git add .
-git commit -m "Mini Social Feed delivery"
-git branch -M main
-git remote add origin <your-github-url>
-git push -u origin main
-```
-2. Upload APK to Google Drive and enable link sharing.
-3. Submit:
-- GitHub repo URL
-- Google Drive APK URL
