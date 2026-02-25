@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "MiniSocialFeed",
+    "slug": "mini-social-feed",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.example.minisocialfeed"
+    },
+    "ios": {
+      "bundleIdentifier": "com.example.minisocialfeed"
+    },
+    "plugins": [
+      "expo-notifications",
+      "expo-asset"
+    ]
+  }
+}
