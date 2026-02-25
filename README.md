@@ -9,7 +9,6 @@ Submission-ready full-stack project with:
 ```txt
 backend/
 mobile/
-.github/workflows/ci.yml
 README.md
 ```
 
